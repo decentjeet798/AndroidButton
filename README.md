@@ -247,7 +247,7 @@ dependencies {
 
 
 <img src="device output.png" align="right" />
-<img buttons_ui.PNG" />
+<img src="buttons_ui.PNG" />
 
 ## Versioning
 
