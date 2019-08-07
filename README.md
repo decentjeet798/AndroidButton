@@ -257,16 +257,16 @@ dependencies {
 		
 ## Authors
 
-* **Ranjeet Kumar** - *AndroidButton* - [decentjeet798](https://github.com/decentjeet798)
+* **Ranjeet Kumar** - *AndroidButton* - [decentjeet798](https://github.com/decentjeet798/AndroidButton)
 
 
 ## License
 
-This project is open source
+This project is open source for android developer
 
 ## Acknowledgments
 
-* Fresher and experence an developer
+* Fresher and experence anndroid developer
 * Handlig click events on buttons
 * etc
 
