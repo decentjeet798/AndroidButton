@@ -1,4 +1,4 @@
-<img src="https://avatars0.githubusercontent.com/u/16250929?s=400&u=4b9dbb7de27004b7f1eca9a51501b947ea6c023f&v=4"/>
+<img src="https://avatars0.githubusercontent.com/u/16250929?s=400&u=4b9dbb7de27004b7f1eca9a51501b947ea6c023f&v=4" align="right"/>
 Different way of handling button click events.
 
 ## Getting Started
