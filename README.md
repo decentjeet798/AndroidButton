@@ -246,8 +246,8 @@ dependencies {
 ## Device Output
 
 
-<img src="device output.png" />
-<img src="app/src/main/res/drawable/buttons_ui.PNG" />
+<img src="device output.png" align="right" />
+<img buttons_ui.PNG" />
 
 ## Versioning
 
