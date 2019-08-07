@@ -245,9 +245,7 @@ dependencies {
 
 ## Device Output
 
-
-<img src="device output.png" align="right" />
-<img src="buttons_ui.PNG" />
+<img src="device output.png" align="center" />
 
 ## Versioning
 
