@@ -213,7 +213,7 @@ public class ButtonActivity extends AppCompatActivity implements View.OnClickLis
     </LinearLayout>
 
 
-</ScrollView>xamples
+</ScrollView>
 ```
 
 ### Prerequisites
@@ -243,7 +243,11 @@ dependencies {
 * [GITHUB](https://github.com/) - Github used
 * [GIT FOR WINDOW](https://git-scm.com/download/win) - Used Git for window
 
+## Device Output
 
+
+<img src="device output.png" />
+<img src="app/src/main/res/drawable/buttons_ui.PNG" />
 
 ## Versioning
 
