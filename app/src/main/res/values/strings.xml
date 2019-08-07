@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Android Button</string>
+
+    <!--  package buttons-->
+    <string name="btn_desc">There are 2 ways to handle the click event in button \n \n * 1> Onclick in xml layout \n * 2> Using an OnClickListener \n</string>
+</resources>
